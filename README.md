@@ -4,3 +4,5 @@ This project delves into the rich field of ancient Chinese bibliography, using a
 For the bump chart, go to https://observablehq.com/d/5bc5f8dc4f5cee65 for the online version.
 
 For the zoomable sunburst, go to https://observablehq.com/d/0bdef5c1c66ca37a for the online version.
+
+<sub><span style="color: red;">*Note: Part of the data is simulated, please do not take them as real data*</span></sub>
