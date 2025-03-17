@@ -6,3 +6,6 @@ For the bump chart, go to https://observablehq.com/d/5bc5f8dc4f5cee65 for the on
 For the zoomable sunburst, go to https://observablehq.com/d/0bdef5c1c66ca37a for the online version.
 
 <sub><span style="color: red;">*Note: Part of the data is simulated, please do not take them as real data*</span></sub>
+
+![bipo](https://github.com/user-attachments/assets/e0dd0eab-2acc-4957-8f8d-cfd2e9fefa8f)
+
